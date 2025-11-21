@@ -1,4 +1,5 @@
 📘 AI Tutor – English Learning Assistant
+
 An AI-powered English learning assistant built with Flask, Groq API, and gTTS. The app provides Urdu translations, pronunciation guides, grammar explanations, synonyms/antonyms, and text-to-speech audio for learners.
 
 🚀 Features
